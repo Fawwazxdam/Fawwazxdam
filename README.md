@@ -1,5 +1,5 @@
 # <summary><strong>Hi there :wave: , I'm Adam Fawwaz!</strong></summary>
-Lifelong Learner, currently working as budagh kompeni.
+Lifelong Learner, currently working as Fullstack Web Developer.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=goonesmile&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
 </p>
 
@@ -10,7 +10,7 @@ Lifelong Learner, currently working as budagh kompeni.
 
 ### <summary><strong>Yosh!</strong></summary>
 <p>
-    - :keyboard: I’m currently like Fullstack Web Developer </br>
+    - :keyboard: I’m currently learning about React.js and Next.js </br>
     - :speech_balloon: Ask me about anything.</br>
     - :mailbox: How to reach me: <a href="mailto:fawwazadam1005@gmail.com">Email me!</a>  </br>
     - :game_die: Drawing and writing are part of me. </br>
