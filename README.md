@@ -1,31 +1,50 @@
-# <summary><strong>Hi there :wave: , I'm Adam Fawwaz!</strong></summary>
-Lifelong Learner, currently working as Fullstack Web Developer.
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=goonesmile&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
+<!-- Profil GitHub README -->
+
+<h1 align="center">Hi there 👋</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F97316&center=true&vCenter=true&width=435&lines=I'm+a+Fullstack+Web+Developer;I+Love+Building+Web+Apps+with+Laravel+%26+React;Always+Learning+Something+New" alt="Typing SVG" />
 </p>
 
-### <summary><strong>Tools:</strong></summary>
-<p>
-    <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
+---
+
+### 💼 Tentang Saya
+- 🧑‍💻 **Fullstack Web Developer** dengan pengalaman **2 tahun**
+- 🚀 Fokus pada pengembangan menggunakan **Laravel**, **TailwindCSS**, **React**, **Express**, dan **Node.js**
+- ☕ Suka ngoding sambil dengerin jazz dan penikmat kopi
+
+---
+
+### 🛠️ Tech Stack
+
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+
+---
+
+### 📫 Hubungi Saya
+
+<p align="left">
+  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.instagram.com/yourusername"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
+  <a href="tel:+620000000000"><img src="https://img.shields.io/badge/Phone-25D366?style=flat-square&logo=whatsapp&logoColor=white"/></a>
+  <a href="https://x.com/yourusername"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=twitter&logoColor=white"/></a>
 </p>
 
-### <summary><strong>Yosh!</strong></summary>
-<p>
-    - :keyboard: I’m currently learning about React.js and Next.js </br>
-    - :speech_balloon: Ask me about anything.</br>
-    - :mailbox: How to reach me: <a href="mailto:fawwazadam1005@gmail.com">Email me!</a>  </br>
-    - :game_die: Drawing and writing are part of me. </br>
-<p>
- 
-### <summary><strong>Let's connect!</strong></summary>
+---
 
-<a href="https://www.instagram.com/@glutamicacidd/">
-  <img align="left" alt="Goo's Instagram" width="20px" src="https://simpleicons.now.sh/instagram/495f7e" />
-</a>
-<!-- <a href="https://yours.com/">
-  <img align="left" alt="Goo's Blog" width="20px" src="https://simpleicons.now.sh/blogger/495f7e" />
-</a> -->
+### 📊 GitHub Stats
 
-<!---
-Fawwazxdam/Fawwazxdam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+> _"Code is like humor. When you have to explain it, it’s bad."_ — Cory House
+
